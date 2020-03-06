@@ -1,3 +1,10 @@
 {
-  "usingComponents": {}
+  "usingComponents": {
+    "w-swiper":"/components/w-swiper/w-swiper",
+    "w-recommend":"./childCpns/w-recommend/w-recommend",
+    "tab-control":"/components/tab-control/tab-control",
+    "w-goods-item": "/components/w-goods-item/w-goods-item",
+    "w-back-top": "/components/w-back-top/w-back-top"
+  },
+  "navigationBarTitleText": "喜购"
 }
